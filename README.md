@@ -1,6 +1,6 @@
 # pythonCWrapTest
 This is an example how to wrap C for Python3.x.
-I did not confirm the performance with Python2.x
+I did not confirm the performance with Python2.x.
 
 # Install
 ```bash
