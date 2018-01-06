@@ -5,7 +5,7 @@ I referenced these Python Docs [1](https://docs.python.jp/3/extending/extending.
 
 
 # Install
-```bash
+```
 $ git clone https://github.com/montblanc18/pythonCWrapTest.git .
 $ python setup.py build
 $ python setup.py install
